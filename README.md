@@ -1,2 +1,2 @@
 # learn-csharp
-I am learning csharp
+Learn c#
